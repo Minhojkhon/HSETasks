@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AdvancedPython/resume" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AdvancedPython/scrapy-parser" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Idt/hse_missing_cs_education" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Idt/hse_missing_cs_education/homework/git/3-way-merge/exercise" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Idt/hse_missing_cs_education/homework/git/advanced-rebase-interactive/exercise" vcs="Git" />
